@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: AAFAS
+title: Home
 image: /img/og-image.jpg
 heading: AAFAS
 subheading: AAFAS
